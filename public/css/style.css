@@ -1,0 +1,8 @@
+.imgWrapper {
+    border: grey;
+    border-style: solid;
+}
+
+.imgWrapper img {
+    width: 100%;
+}
